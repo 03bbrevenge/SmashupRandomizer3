@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SmashupRandomizer</string>
+
+    //<string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Smashup" > SmashUP Randomizer</string>
+
+
+
+    <string name="Priates" > Pirates</string>
+    <string name="Ninja" > Ninja</string>
+    <string name="Robots" > Robots</string>
+    <string name="Dinosaurs" > Dinosaurs</string>
+    <string name="Wizards" > Wizards</string>
+    <string name="Tricksters" > Tricksters</string>
+    <string name="Aliens" > Aliens</string>
+    <string name="KillerPlants" > Killer Plants</string>
+    <string name="Ghosts" > Ghosts</string>
+    <string name="Steampunks" > Steampunks</string>
+    <string name="BearCavalry" > Bear Cavalry</string>
+    <string name="CthulhuCultists" > Cuthulu Cultists</string>
+    <string name="ElderThings" > ElderThings</string>
+    <string name="Innsmouth" > Innsmouth</string>
+    <string name="Mistkatonic" > Miskatonic University</string>
+    <string name="Time" > Time Travelers</string>
+    <string name="Cyborg" > Cyborg Apes</string>
+    <string name="Spies" > Super Spies</string>
+    <string name="Shapeshifters" > Shapeshifters</string>
+    <string name="Geeks" > Geeks</string>
+    <string name="Mad" > Mad Scientists</string>
+    <string name="Giant" > Giant Ants</string>
+    <string name="WereWolves" > Werewolves</string>
+    <string name="Vampires" > Vampires</string>
+    <string name="Fairies" > Faries</string>
+    <string name="Horses" > Mythic Horses</string>
+    <string name="Kitty" > Kitty Cats</string>
+    <string name="Princeses" > Princesses</string>
+    <string name="displayField">Deck Selections will be here</string>
+    <string name="Randomizer">Randomize</string>
+
+
+
+</resources>
